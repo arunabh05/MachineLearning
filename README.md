@@ -1,5 +1,5 @@
 # MachineLearning
 Perceptron and Linear Regression Algorithm
 
-## Design
+## Description
 Perceptron and Linear Regression Algorithm using numpy on randomly generated dataset.
